@@ -22,7 +22,7 @@ you must create an account on Aylien.com in order to get a key and
 ID for their text processing API, which I have used in this project.
 
 Screenshots of the App in Action:
-![alt tag](https://raw.githubusercontent.com/rl2745/NewsSummarizerApp/blob/master/Screenshot_2016-04-03-22-19-30.png)
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/rl2745/NewsSummarizerApp/master/Screenshot_2016-04-03-22-19-30.png)
+![alt tag](https://raw.githubusercontent.com/rl2745/NewsSummarizerApp/master/Screenshot_2016-04-03-22-19-53.png)
+![alt tag](https://raw.githubusercontent.com/rl2745/NewsSummarizerApp/master/Screenshot_2016-04-03-22-19-59.png)
+![alt tag](https://raw.githubusercontent.com/rl2745/NewsSummarizerApp/master/Screenshot_2016-04-03-22-20-03.png)
