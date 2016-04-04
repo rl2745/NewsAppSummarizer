@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Article Summarizer</string>
+    <string name="edit_message">Enter an URL</string>
+    <string name="button_send">Get Article Summary</string>
+    <string name="title_activity_display_message">Article Summary</string>
+    <string name="title">News Article Summarizer</string>
+    <string name="inputCommand">Enter the Article URL:</string>
+</resources>
+
